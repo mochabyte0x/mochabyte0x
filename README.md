@@ -9,7 +9,7 @@
   <img src="https://github.com/B0lg0r0v/B0lg0r0v/assets/115954804/2d503635-7682-4248-a5da-2f8c10ce4424" width="30%" align="center">
   <br><br>
   
-[![](https://img.shields.io/badge/linkedin-blue)](https://linkedin.com/in/arthur-minasyan-b582b7233)
+[![](https://img.shields.io/badge/Linkedin-blue)](https://linkedin.com/in/arthur-minasyan-b582b7233)
 [![](https://img.shields.io/badge/Website-6364ff)](https://root.security)
 [![](https://img.shields.io/badge/Twitter-%2392b8c3)](https://twitter.com/b0lg0r0v)
 </div>
