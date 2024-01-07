@@ -1,4 +1,4 @@
-<h2 align="center">Hi (• ◡•) !</h2>
+<h1 align="center">Hi (• ◡•) !</h1>
 
 <div align=center>
   <pre>
@@ -7,7 +7,7 @@
     💻 Low Level System Programming • Offensive & Defensive Tool Development
     🎮 Games • Anime • Music<br>
   </pre>
-  <img src="https://github.com/B0lg0r0v/B0lg0r0v/assets/115954804/2d503635-7682-4248-a5da-2f8c10ce4424" width="25%" align="center">
+  <img src="https://github.com/B0lg0r0v/B0lg0r0v/assets/115954804/2d503635-7682-4248-a5da-2f8c10ce4424" width="30%" align="center">
   <br><br>
   
 ![Static Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&link=https%3A%2F%2Fde.linkedin.com%2Fin%2Farthur-minasyan-b582b7233)
