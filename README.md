@@ -5,8 +5,7 @@
     I'm B0lg0r0v <br> Red Teamer from France 🇫🇷 • Living & working in Germany 🇩🇪<br>
     💼 B.Sc in Cybersecurity (in progress)
     💻 Low Level System Programming • Offensive & Defensive Tool Development
-    🎮 Games • Anime • Music<br>
-  </pre>
+    🎮 Games • Anime • Music</pre>
   <img src="https://github.com/B0lg0r0v/B0lg0r0v/assets/115954804/2d503635-7682-4248-a5da-2f8c10ce4424" width="30%" align="center">
   <br><br>
   
