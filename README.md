@@ -4,7 +4,7 @@
   <pre>
     I'm B0lg0r0v <br> Red Teamer from France 🇫🇷 • Living & working in Germany 🇩🇪<br>
     💼 B.Sc in Cybersecurity (in progress)
-    💻 Offensive & Defensive Tool Development • CRTO, eCPPT
+    💻 Offensive & Defensive Tool Development • OSCP, CRTO, eCPPT
     🎮 Games • Anime • Music</pre>
   <img src="https://github.com/B0lg0r0v/B0lg0r0v/assets/115954804/2d503635-7682-4248-a5da-2f8c10ce4424" width="30%" align="center">
   <br><br>
