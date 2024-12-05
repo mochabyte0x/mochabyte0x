@@ -3,7 +3,7 @@
 <div align=center>
   <pre>
     I'm B0lg0r0v <br> Offensive Security Consultant from France 🇫🇷 • Living & working in Germany 🇩🇪<br>
-    💻 Adversary Simulation • OSCP, CRTO, eCPPT
+    💻 Adversary Simulation • OSCP, CRTO, CRTE, eCPPT
     🎓 B.Sc in Cybersecurity (in progress)
     💊 Offensive & Defensive Tooling Development 
     🎮 Games • Anime • Music</pre>
