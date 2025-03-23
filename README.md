@@ -4,9 +4,10 @@
     💻 Adversary Simulation • OSCP, CRTO, CRTE, eCPPT
     🎓 B.Sc in Cybersecurity (in progress)
     💊 Offensive & Defensive Tooling Development 
-    🎮 Games • Anime • Music</pre>
-  <img src="https://github.com/user-attachments/assets/d49bc686-dfd7-4710-93c6-b052189cf7a3" width="25%" />
-  <br><br>
+    🎮 Games • Anime • Music
+</pre>
+<img src="https://github.com/user-attachments/assets/90f8700d-d485-4392-9c11-11df444b2735"  height=260 width="75%"/>
+<br><br>
   
 [![](https://img.shields.io/badge/Linkedin-blue)](https://linkedin.com/in/arthur-minasyan-b582b7233)
 [![](https://img.shields.io/badge/Website-6364ff)](https://arthurminasyan.com)
