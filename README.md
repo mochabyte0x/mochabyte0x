@@ -1,12 +1,12 @@
 <div align=center>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=1000&color=FFFFFF&center=true&width=550&lines=Hi+(%E2%80%A2+%E2%97%A1%E2%80%A2)+!+I'm+B0lg0r0v+!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=1000&color=FFFFFF&center=true&width=550&lines=Hi+(%E2%80%A2+%E2%97%A1%E2%80%A2)+!" alt="Typing SVG" /></a>
   <pre>
     💻 Adversary Simulation • OSCP, CRTO, CRTE, eCPPT
     🎓 B.Sc in Cybersecurity (in progress)
     💊 Offensive & Defensive Tooling Development 
     🎮 Games • Anime • Music
 </pre>
-<img src="https://github.com/user-attachments/assets/90f8700d-d485-4392-9c11-11df444b2735"  height=260 width="75%"/>
+<img src="https://github.com/user-attachments/assets/90f8700d-d485-4392-9c11-11df444b2735"  height=150 width="50%"/>
 <br><br>
   
 [![](https://img.shields.io/badge/Linkedin-blue)](https://linkedin.com/in/arthur-minasyan-b582b7233)
