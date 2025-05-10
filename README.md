@@ -10,7 +10,7 @@
 <br><br>
   
 [![](https://img.shields.io/badge/Linkedin-blue)](https://linkedin.com/in/arthur-minasyan-b582b7233)
-[![](https://img.shields.io/badge/Website-6364ff)](https://arthurminasyan.com)
-[![](https://img.shields.io/badge/Twitter-%2392b8c3)](https://twitter.com/b0lg0r0v)
+[![](https://img.shields.io/badge/Website-6364ff)](https://mochabyte.xyz)
+[![](https://img.shields.io/badge/Twitter-%2392b8c3)](https://twitter.com/mochabyte0x)
 </div>
 
