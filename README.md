@@ -6,8 +6,6 @@
     💊 Offensive & Defensive Tooling Development 
     🎮 Games • Anime • Music
 </pre>
-<img src="https://github.com/user-attachments/assets/90f8700d-d485-4392-9c11-11df444b2735"  height=150 width="50%"/>
-<br><br>
   
 [![](https://img.shields.io/badge/Linkedin-blue)](https://linkedin.com/in/arthur-minasyan-b582b7233)
 [![](https://img.shields.io/badge/Website-6364ff)](https://mochabyte.xyz)
