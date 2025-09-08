@@ -7,7 +7,7 @@
     🎮 Games • Anime • Music
 </pre>
 
-![mochabyte0x's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mochabyte0x&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact)
+![mochabyte0x's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mochabyte0x&theme=ayu-mirage&show_icons=true&hide_border=false&layout=compact)
   
 [![](https://img.shields.io/badge/Linkedin-blue)](https://linkedin.com/in/arthur-minasyan-b582b7233)
 [![](https://img.shields.io/badge/Website-6364ff)](https://mochabyte.xyz)
