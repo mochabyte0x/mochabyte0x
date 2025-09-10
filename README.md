@@ -1,11 +1,5 @@
 <div align=center>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=1000&color=FFFFFF&center=true&width=550&lines=Hi+(%E2%80%A2+%E2%97%A1%E2%80%A2)+!" alt="Typing SVG" /></a>
-  <pre>
-    💻 Adversary Simulation • OSEP, CRTO, OSCP, C-ADPenX, CRTE, CRTeamer, eCPPT
-    🎓 B.Sc in Cybersecurity (in progress)
-    💊 Offensive & Defensive Tooling Development 
-    🎮 Games • Anime • Music
-</pre>
 
 ![mochabyte0x's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mochabyte0x&theme=ayu-mirage&show_icons=true&hide_border=false&layout=compact)
   
